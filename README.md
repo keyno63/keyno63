@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Software Enginner(VoIP/Web)
+- Use Java, Go
+- Interested in Scala
+
 <!--
 **keyno63/keyno63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
