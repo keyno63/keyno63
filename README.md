@@ -1,25 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Keyno! 👋
 
-- Software Enginner(Web/VoIP)
-- Use Java, Go（or C++）
-- Interested in Scala
+## About Me
 
-<!--
-**keyno63/keyno63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer with a keen interest in open-source projects and software development. I love exploring new technologies and applying them to solve real-world problems.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python, JavaScript, TypeScript, Java, C++
+- **Frameworks**: React, Angular, Django, Flask, Spring Boot
+- **Tools**: Git, Docker, Kubernetes, Jenkins, AWS, Azure
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
 
+## Projects
+
+### [Project Name](https://github.com/keyno63/project-repo)
+A brief description of the project and its purpose.
+
+### [Another Project](https://github.com/keyno63/another-project-repo)
+A brief description of another project and its purpose.
+
+## Get in Touch
+
+- [GitHub](https://github.com/keyno63)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [Twitter](https://twitter.com/your-twitter-handle)
+
+Feel free to reach out if you have any questions or if you want to collaborate on a project!
+
+## Stats
+
+![Keyno's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyno63&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyno63&layout=compact&theme=radical)
+
+## Links
 [![Keyno63's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyno63&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyno63&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [HP](https://profile.maigo-name.tokyo/)
