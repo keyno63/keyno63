@@ -11,14 +11,6 @@ I am a passionate developer with a keen interest in open-source projects and sof
 - **Tools**: Git, Docker, Kubernetes, Jenkins, AWS, Azure
 - **Databases**: MySQL, PostgreSQL, MongoDB, Redis
 
-## Projects
-
-### [Project Name](https://github.com/keyno63/project-repo)
-A brief description of the project and its purpose.
-
-### [Another Project](https://github.com/keyno63/another-project-repo)
-A brief description of another project and its purpose.
-
 ## Get in Touch
 
 - [GitHub](https://github.com/keyno63)
