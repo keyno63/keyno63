@@ -29,14 +29,11 @@ Feel free to reach out if you have any questions or if you want to collaborate o
 
 ## Stats
 
-![Keyno's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyno63&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyno63&layout=compact&theme=radical)
-
-## Links
 [![Keyno63's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyno63&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyno63&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+## Links
 
 [HP](https://profile.maigo-name.tokyo/)
 
