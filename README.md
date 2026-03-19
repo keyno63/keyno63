@@ -14,8 +14,8 @@ I am a passionate developer with a keen interest in open-source projects and sof
 ## Get in Touch
 
 - [GitHub](https://github.com/keyno63)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/%E5%85%AC%E5%B9%B3-%E8%97%A4%E5%8E%9F-7aa860135)
+- [X(Twitter)](https://x.com/maigo_name)
 
 Feel free to reach out if you have any questions or if you want to collaborate on a project!
 
@@ -29,4 +29,4 @@ Feel free to reach out if you have any questions or if you want to collaborate o
 
 [HP](https://profile.maigo-name.tokyo/)
 
-[Blog](https://maigo-name.tokyo/)
+[Blog](https://www.maigo-name.tokyo/)
